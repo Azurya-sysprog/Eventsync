@@ -46,9 +46,6 @@ python eventsync.py
 
 We welcome contributions to enhance the functionality and features of EventSync. If you have ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request on the project's [GitHub repository](https://github.com/yourusername/eventsync).
 
-## License
-
-EventSync is released under the [MIT License](LICENSE), granting users the freedom to modify and distribute the software.
 
 Thank you for choosing EventSync! We hope this tool makes your event planning experience more enjoyable and efficient. If you encounter any issues or have suggestions for improvement, please don't hesitate to reach out.
 
